@@ -1,0 +1,7 @@
+"manifest"
+{
+  "commandline" "/run.sh"
+  "commandline_getnativepath" "/run.sh getnativepath"
+  "commandline_getcompatpath" "/run.sh getcompatpath"
+  "commandline_waitforexitandrun" "/run.sh"
+}

@@ -1,0 +1,13 @@
+"compatibilitytools"
+{
+  "compat_tools"
+  {
+    "xephyr" // Internal name of this tool
+    {
+      "install_path" "."
+      "display_name" "Xephyr"
+      "from_oslist"  "linux"
+      "to_oslist"    "linux"
+    }
+  }
+}
